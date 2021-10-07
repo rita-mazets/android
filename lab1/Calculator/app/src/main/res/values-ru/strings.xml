@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Калькулятор</string>
+    <string name="back" translatable="false">назад</string>
+</resources>
