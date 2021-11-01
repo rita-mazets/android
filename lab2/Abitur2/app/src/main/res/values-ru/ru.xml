@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Абитуриенты</string>
+    <string name="surname">Фамилия: </string>
+    <string name="name">Имя: </string>
+    <string name="middlename">Отчество: </string>
+    <string name="mark">Оценки: </string>
+    <string name="refresh">Изменить</string>
+    <string name="add">Добавить</string>
+    <string name="edit">Редактировать</string>
+    <string name="delete">Удалить</string>
+    <string name="load">Загрузить из файла</string>
+    <string name="save">Загрузить в файл</string>
+    <string name="score">Средний балл:</string>
+</resources>
